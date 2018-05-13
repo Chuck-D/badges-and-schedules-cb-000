@@ -5,7 +5,7 @@ end
 def batch_badge_creator(attendees)
   
   attendees.each do|badge|
-  print attendees
+  print 8
   end
     
   
