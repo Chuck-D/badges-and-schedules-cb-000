@@ -8,6 +8,7 @@ def batch_badge_creator(badges)
     print "Hello, my name is."
   end
 end 
+=begin
 
 def assign_rooms(speakers)
   speakers.each do |speaker|
