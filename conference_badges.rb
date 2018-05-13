@@ -5,7 +5,7 @@ end
 def batch_badge_creator(attendees)
   
   attendees.each do|badge|
-  print 8
+  return badge +"kii"
   end
     
   
