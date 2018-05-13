@@ -17,6 +17,11 @@ def assign_rooms(speakers)
   speakers.each_with_index{|speaker,index|
   assign.push("Hello, #{speaker}! You'll be assigned to room #{index + 1}!")
     }
+   return assign
+end 
+
+def printer
+  puts batch_badge_creator
+  puts assign_rooms
   
-  return assign
 end 
