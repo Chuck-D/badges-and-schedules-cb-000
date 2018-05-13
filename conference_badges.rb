@@ -7,3 +7,7 @@ def batch_badge_creator(names)
   puts "Hello, my name is #{name}." 
   end
 end 
+
+def assign_rooms(speakers)
+  
+end 
