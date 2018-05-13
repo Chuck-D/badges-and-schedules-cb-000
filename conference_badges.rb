@@ -15,3 +15,4 @@ def assign_rooms(speakers)
   puts "Hello, #{speaker}! You'll be assigned to room #{speaker.index(speaker)}!"
   end
 end 
+=end
