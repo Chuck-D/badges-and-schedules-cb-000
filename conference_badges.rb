@@ -4,7 +4,7 @@ end
 
 def batch_badge_creator(attendees)
   
-  attendees.each{|badge|
+  attendees.each{|badge| puts "hi"
     
   end
 end 
